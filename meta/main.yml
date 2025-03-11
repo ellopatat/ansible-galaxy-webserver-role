@@ -1,0 +1,16 @@
+galaxy_info:
+  author: "Dennis S."
+  description: "Ansible role to install Apache, PHP, and PHP-MySQL"
+  company: "Windesheim"
+  license: "MIT"
+  min_ansible_version: "2.9"
+  platforms:
+    - name: Ubuntu
+      versions:
+        - "20.04"
+        - "22.04"
+  galaxy_tags:
+    - web
+    - apache
+    - php
+dependencies: []
