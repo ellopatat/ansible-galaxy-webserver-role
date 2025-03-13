@@ -2,7 +2,7 @@
 install apache and php.
 
 
-#group_vars
+#group_vars /n
 web_packages:
   - apache2
   - php
