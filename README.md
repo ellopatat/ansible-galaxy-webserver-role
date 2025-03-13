@@ -1,8 +1,6 @@
 #webserver role
-install apache and php.
-
-
-#group_vars /n
+install apache and php.<br>
+#group_vars<br>
 web_packages:
   - apache2
   - php
